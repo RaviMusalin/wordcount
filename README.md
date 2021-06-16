@@ -12,7 +12,8 @@ In the project directory, you can run by:
 - cd into wordcount
 - npm install
 - npm start 
-- Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+### "Currently Deployed"
+This app is currently deployed at: https://ravimusalin.github.io/wordcount/
 
 
