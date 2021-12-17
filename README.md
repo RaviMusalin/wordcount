@@ -1,10 +1,3 @@
-
-
-# 2. Word Count Challenge
-
-I completed the Word Count Challenge for this project.
-
-
 ## `How to run`
 
 In the project directory, you can run by:
